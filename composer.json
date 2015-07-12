@@ -1,0 +1,15 @@
+{
+    "name": "MoPj/php",
+    "authors": [
+        {
+            "name": "Maureen Johnston",
+            "email": "wejmps@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "~1.14",
+        "slim/slim": "~2.6",
+        "twig/twig": "~1.18",
+        "slim/views": "0.1.*"
+    }
+}
